@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Paul Resmer
 
 <!--
 **paulresmer/paulresmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 Hello! My name is Paul Resmer and I'm currently at Cornell University pursuing an undergraduate degree in Computer Science. Recently, I've been exploring the fields of machine learning and natural language processing. I'm particularly interested in LLMs and how they will affect human society. 
+
+I’m passionate about working in a collaborative environment and taking on new challenges. Please feel free to reach out at pgr39@cornell.edu.
+
