@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Hello! My name is Paul Resmer and I'm currently at Cornell University pursuing an undergraduate degree in Computer Science. Recently, I've been exploring the fields of machine learning and natural language processing. I'm particularly interested in the recent large-scale emergence of LLMs and their intersection with markets and human society.
+🌱 Hello! My name is Paul Resmer and I'm currently at Cornell University pursuing an undergraduate degree in Computer Science. Recently, I've been exploring the fields of machine learning and natural language processing. I'm particularly interested in the recent large-scale emergence of LLMs and how their common use will affect markets and our society.
 
 I’m passionate about working in a collaborative environment and taking on new challenges. Please feel free to reach out at pgr39@cornell.edu.
 
