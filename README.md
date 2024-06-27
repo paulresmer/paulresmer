@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 Hi, I'm Paul. I'm currently at Cornell University pursuing an undergraduate degree in Computer Science with minors in Mathematics and Artificial Intelligence. Check out more of what I'm interested in here: paulresmer.github.io
+🌱 Hello! I'm a senior at Cornell University studying Computer Science with minors in Mathematics and AI. I enjoy reasoning about topics in algorithmic game theory and machine learning. A few of my favorite subtopics include Multi-Agent Reinforcement Learning (MARL), cognitive computing, and interpretability.
+
+Feel free to reach out! pgr39 [at] cornell [dot] edu
